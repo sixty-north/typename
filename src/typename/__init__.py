@@ -11,3 +11,4 @@ __version_info__ = tuple(__version__.split('.'))
 def typename(obj) -> str:
     """The name of the type of an object."""
     return type(obj).__name__
+
