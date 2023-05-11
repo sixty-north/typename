@@ -4,7 +4,7 @@ Its purpose is purely aesthetic, to avoid unsightly constructs such as `type(obj
 ghastly `obj.__class__.__name__`.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __version_info__ = tuple(__version__.split('.'))
 
 
